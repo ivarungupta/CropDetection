@@ -86,9 +86,6 @@ We welcome contributions to enhance the project. Please follow these steps:
 5. Push to the branch (`git push origin feature-branch`).
 6. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Acknowledgments
 
@@ -98,4 +95,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ## Contact
 
 For any inquiries, please reach out to us at [ivarungupta7@gmail.com](mailto:ivarungupta7@gmail.com).
+
+Thank you for using CropDetection By KhetiMitr! Let's work together to protect our crops and ensure a healthier harvest! 🌿🔍
 
