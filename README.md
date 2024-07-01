@@ -2,6 +2,8 @@
 
 Welcome to CropDetection, an innovative project by Team KhetiMitr for detecting plant diseases using imagery and advanced machine learning techniques.
 
+![Alt text](ss1.png)
+
 ## Overview
 
 CropDetection aims to assist in identifying plant diseases efficiently by analyzing images of crop leaves. Simply upload an image, and our system will process it to detect any signs of diseases.
@@ -21,6 +23,8 @@ LINK : [Click Here](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases
 1. **Upload Image**: Go to the **Disease Recognition** page and upload an image of a plant with suspected diseases.
 2. **Analysis**: The system processes the image using advanced algorithms to identify potential diseases.
 3. **Results**: View the results and recommendations for further action.
+
+![Alt text](ss2.png)
 
 ## Getting Started
 
