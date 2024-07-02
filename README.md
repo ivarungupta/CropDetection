@@ -97,4 +97,4 @@ We welcome contributions to enhance the project. Please follow these steps:
 For any inquiries, please reach out to us at [ivarungupta7@gmail.com](mailto:ivarungupta7@gmail.com).
 
 Thank you for using CropDetection By KhetiMitr! Let's work together to protect our crops and ensure a healthier harvest! 🌿🔍
-
+.
